@@ -1,0 +1,12 @@
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\bin\Debug\net8.0\CoreLayer.deps.json
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfo.cs
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\CoreLayer.sourcelink.json
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\CoreLayer.dll
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\refint\CoreLayer.dll
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\CoreLayer.pdb
+C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\CoreLayer\obj\Debug\net8.0\ref\CoreLayer.dll
