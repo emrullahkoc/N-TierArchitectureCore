@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Assignment>
+
+<a href="/Management/Assignment/Create" class="btn btn-primary">Yeni Ekle</a>
+
+<div class="card radius-15">
+	<div class="card-body">
+		<div class="card-title">
+			<h4 class="mb-0">Proje Listesi</h4>
+			<p>@Model.Count()</p>
+			<p>@ViewBag.Say adet proje bulundu</p>
+		</div>
+		<hr>
+		<div class="table-responsive">
+			<table class="table mb-0">
+				<thead>
+					<tr>
+						<th scope="col">Id</th>
+						<th scope="col">Başlık</th>
+						<th scope="col">Resim</th>
+						<th>Resim uzantısı</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

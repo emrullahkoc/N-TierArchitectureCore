@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <partial name="_Head" />
+    @RenderSection("CssSection", required: false)
+</head>
+
+<body>
+    <partial name="_Sidebar" />
+    <partial name="_Navigation" />
+    </div>
+    <!--end sidebar-wrapper-->
+    <partial name="_Header" />
+    <!--page-wrapper-->
+    <div class="page-wrapper">
+        <!--page-content-wrapper-->
+        <div class="page-content-wrapper">
+            <div class="page-content">
+                @RenderBody()
+            </div>
+
+        </div>
+        <!--end page-content-wrapper-->
+    </div>
+    <!--end page-wrapper-->
+    <partial name="_Overlay" />
+
+    <partial name="_Footer" />
+    </div>
+    <!-- end wrapper -->
+    <partial name="_Switcher" />
+    <partial name="_Scripts" />
+    @RenderSection("ScriptSection", required: false)
+</body>
+
+</html>

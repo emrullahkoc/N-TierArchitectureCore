@@ -1,0 +1,15 @@
+﻿@model CategoryProject
+
+<div class="col-12 col-lg-6 col-xl-6">
+	<div class="card radius-15">
+		<div class="card-body">
+			<h5 class="card-title">@Model.Category.Name</h5>
+			<h6 class="card-subtitle mb-2">@Model.Project.Name</h6>
+		</div>
+	</div>
+</div>
+
+<h1>Silmek istediğinize emin misiniz</h1>
+<form action="/Management/CategoryProject/Delete/@Model.CategoryId/@Model.ProjectId" method="post">
+	<input type="submit" value="Sil" class="btn btn-danger" />
+</form>

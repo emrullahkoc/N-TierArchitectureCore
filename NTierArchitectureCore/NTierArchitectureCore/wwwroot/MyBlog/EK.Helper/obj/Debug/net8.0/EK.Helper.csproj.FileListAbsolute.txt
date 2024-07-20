@@ -1,0 +1,11 @@
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\bin\Debug\net8.0\EK.Helper.deps.json
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\bin\Debug\net8.0\EK.Helper.dll
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\bin\Debug\net8.0\EK.Helper.pdb
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\obj\Debug\net8.0\EK.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\obj\Debug\net8.0\EK.Helper.AssemblyInfoInputs.cache
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\obj\Debug\net8.0\EK.Helper.AssemblyInfo.cs
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\obj\Debug\net8.0\EK.Helper.csproj.CoreCompileInputs.cache
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\obj\Debug\net8.0\EK.Helper.dll
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\obj\Debug\net8.0\refint\EK.Helper.dll
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\obj\Debug\net8.0\EK.Helper.pdb
+C:\Users\emrul\Desktop\YAZILIM\MyBlog\EK.Helper\obj\Debug\net8.0\ref\EK.Helper.dll

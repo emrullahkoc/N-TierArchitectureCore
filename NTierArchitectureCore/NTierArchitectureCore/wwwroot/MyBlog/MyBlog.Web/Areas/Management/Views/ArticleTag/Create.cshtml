@@ -1,0 +1,19 @@
+﻿@model ArticleTag
+
+<div class="card">
+    <div class="card-body">
+        <form method="post">
+
+            <label asp-for="ArticleId"></label>
+            <select asp-for="ArticleId" asp-items="@ViewBag.ArticleId" class="form-control">
+            </select>
+
+            <label asp-for="TagId"></label>
+            <select asp-for="TagId" asp-items="@ViewBag.TagId" class="form-control">
+            </select>
+
+            <input type="submit" value="Kaydet" class="btn btn-primary" />
+
+        </form>
+    </div>
+</div>
