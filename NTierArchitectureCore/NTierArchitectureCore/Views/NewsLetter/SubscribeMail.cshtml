@@ -1,8 +1,32 @@
 ﻿<div class="tech-btm">
-	<h4>Mail Bültenine Abone Ol</h4>
-	<p>Teknoloji yazılım ve diğer bloglar...</p>
-	<form method="post">
-		<input type="email" placeholder="Email" required="" name="Mail">
-		<input type="submit" value="Abone Ol">
-	</form>
+    <h4>Mail Bültenine Abone Ol</h4>
+    <p>Teknoloji yazılım ve diğer bloglar...</p>
+    <form id="subscribeForm" method="post">
+        <input type="email" placeholder="Email" required name="Mail">
+        <input type="submit" value="Abone Ol">
+    </form>
+    <div id="responseMessage"></div>
 </div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('#subscribeForm').on('submit', function(event) {
+            event.preventDefault(); // Formun normal şekilde gönderilmesini engelle
+            $.ajax({
+                url: '@Url.Action("SubscribeMail", "NewsLetter")',
+                type: 'POST',
+                data: $(this).serialize(),
+                success: function(response) {
+                    $('#responseMessage').html(response.message);
+                    if(response.success) {
+                        $('#subscribeForm')[0].reset(); // Formu sıfırla
+                    }
+                },
+                error: function() {
+                    $('#responseMessage').html('Bir hata oluştu. Lütfen tekrar deneyin.');
+                }
+            });
+        });
+    });
+</script>

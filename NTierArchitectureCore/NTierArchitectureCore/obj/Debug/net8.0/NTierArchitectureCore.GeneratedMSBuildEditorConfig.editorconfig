@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\emrullahkoc\Desktop\N-TierArchitectureCore\NTierArchitectureCore\NTierArchitectureCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/emrullahkoc/Desktop/N-TierArchitectureCore/NTierArchitectureCore/NTierArchitectureCore/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emrullahkoc/Desktop/N-TierArchitectureCore/NTierArchitectureCore/NTierArchitectureCore/Views/About/SocialMediaAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU29jaWFsTWVkaWFBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/emrullahkoc/Desktop/N-TierArchitectureCore/NTierArchitectureCore/NTierArchitectureCore/Views/Blog/BlogReadAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUmVhZEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/emrullahkoc/Desktop/N-TierArchitectureCore/NTierArchitectureCore/NTierArchitectureCore/Views/Comment/PartialAddComment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQYXJ0aWFsQWRkQ29tbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emrullahkoc/Desktop/N-TierArchitectureCore/NTierArchitectureCore/NTierArchitectureCore/Views/ErrorPage/Error1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/emrullahkoc/Desktop/N-TierArchitectureCore/NTierArchitectureCore/NTierArchitectureCore/Views/Home/Index.cshtml]
