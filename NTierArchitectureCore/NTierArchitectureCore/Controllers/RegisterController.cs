@@ -1,28 +1,43 @@
 ﻿using BusinessLayer.Concrete;
+using BusinessLayer.ValidationRules;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
+using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace NTierArchitectureCore.Controllers
 {
-	public class RegisterController : Controller
-	{
-		WriterManager wm = new WriterManager(new EfWriterRepository());
+    public class RegisterController : Controller
+    {
+        WriterManager wm = new WriterManager(new EfWriterRepository());
 
-		[HttpGet]
-		public IActionResult Index()
-		{
-			return View();
-		}
+        [HttpGet]
+        public IActionResult Index()
+        {
+            return View();
+        }
 
         [HttpPost]
         public IActionResult Index(Writer p)
         {
-			p.WriterStatus=true;
-			p.WriterAbout = "Deneme";
-			wm.WriterAdd(p);
-            return RedirectToAction("Index","Blog");
+            WriterValidator wv = new WriterValidator();
+            ValidationResult result = wv.Validate(p);
+            if (result.IsValid)
+            {
+                p.WriterStatus = true;
+                p.WriterAbout = "Deneme";
+                wm.WriterAdd(p);
+                return RedirectToAction("Index", "Blog");
+            }
+            else
+            {
+                foreach (var item in result.Errors)
+                {
+                    ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
+                }
+            }
+            return View();
         }
     }
 }
