@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\views\\shared\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\views\\shared\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\views\\shared\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\views\\shared\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\views\\shared\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\views\\shared\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Program.cs",
+              "RelativeDocumentMoniker": "NTierArchitectureCore\\Program.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Program.cs",
+              "RelativeToolTip": "NTierArchitectureCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:10:51.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NTierArchitectureCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NTierArchitectureCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:04:18.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Partial3.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial3.cshtml",
+              "RelativeDocumentMoniker": "NTierArchitectureCore\\Views\\Shared\\Partial3.cshtml",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial3.cshtml",
+              "RelativeToolTip": "NTierArchitectureCore\\Views\\Shared\\Partial3.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:01:09.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partial2.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial2.cshtml",
+              "RelativeDocumentMoniker": "NTierArchitectureCore\\Views\\Shared\\Partial2.cshtml",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial2.cshtml",
+              "RelativeToolTip": "NTierArchitectureCore\\Views\\Shared\\Partial2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:59:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial1.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial1.cshtml",
+              "RelativeDocumentMoniker": "NTierArchitectureCore\\Views\\Shared\\Partial1.cshtml",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial1.cshtml",
+              "RelativeToolTip": "NTierArchitectureCore\\Views\\Shared\\Partial1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:55:19.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
