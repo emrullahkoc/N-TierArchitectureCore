@@ -3,24 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\abstract\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\views\\shared\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\views\\shared\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\viewcomponents\\category\\categorylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\viewcomponents\\category\\categorylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\views\\shared\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\views\\shared\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\abstract\\iblogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\iblogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\ntierarchitecturecore\\views\\shared\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADBF77B3-3690-4EF9-A499-73E1D50F2E05}|NTierArchitectureCore\\NTierArchitectureCore.csproj|solutionrelative:ntierarchitecturecore\\views\\shared\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\abstract\\icontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\icontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\abstract\\icommentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\icommentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\abstract\\inewsletterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\inewsletterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\entityframework\\efblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\entityframework\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\entityframework\\efcontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\entityframework\\efnewsletterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efnewsletterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D531C914-18A8-4862-B5E8-C014B33AFB94}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5599FF88-33D5-4A02-B8DF-910EF18035DF}|EntityLayer\\EntityLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\entitylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5599FF88-33D5-4A02-B8DF-910EF18035DF}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903E7CA-1C97-4D6C-9586-81A998091A89}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\businesslayer\\abstract\\iwriterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E903E7CA-1C97-4D6C-9586-81A998091A89}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iwriterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903E7CA-1C97-4D6C-9586-81A998091A89}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\businesslayer\\validationrules\\writervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E903E7CA-1C97-4D6C-9586-81A998091A89}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validationrules\\writervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903E7CA-1C97-4D6C-9586-81A998091A89}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\emrullahkoc\\desktop\\n-tierarchitecturecore\\ntierarchitecturecore\\businesslayer\\concrete\\writermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E903E7CA-1C97-4D6C-9586-81A998091A89}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\writermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +78,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Program.cs",
-              "RelativeDocumentMoniker": "NTierArchitectureCore\\Program.cs",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Program.cs",
-              "RelativeToolTip": "NTierArchitectureCore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T10:10:51.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NTierArchitectureCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NTierArchitectureCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T10:04:18.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Partial3.cshtml",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial3.cshtml",
-              "RelativeDocumentMoniker": "NTierArchitectureCore\\Views\\Shared\\Partial3.cshtml",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial3.cshtml",
-              "RelativeToolTip": "NTierArchitectureCore\\Views\\Shared\\Partial3.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T10:01:09.705Z",
+              "Title": "CategoryList.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\ViewComponents\\Category\\CategoryList.cs",
+              "RelativeDocumentMoniker": "NTierArchitectureCore\\ViewComponents\\Category\\CategoryList.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\ViewComponents\\Category\\CategoryList.cs",
+              "RelativeToolTip": "NTierArchitectureCore\\ViewComponents\\Category\\CategoryList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:01:07.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Partial2.cshtml",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial2.cshtml",
-              "RelativeDocumentMoniker": "NTierArchitectureCore\\Views\\Shared\\Partial2.cshtml",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial2.cshtml",
-              "RelativeToolTip": "NTierArchitectureCore\\Views\\Shared\\Partial2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T09:59:27.517Z",
+              "Title": "IBlogDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\IBlogDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IBlogDal.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\IBlogDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IBlogDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:16:34.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Partial1.cshtml",
-              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial1.cshtml",
-              "RelativeDocumentMoniker": "NTierArchitectureCore\\Views\\Shared\\Partial1.cshtml",
-              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\NTierArchitectureCore\\Views\\Shared\\Partial1.cshtml",
-              "RelativeToolTip": "NTierArchitectureCore\\Views\\Shared\\Partial1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T09:55:19.393Z",
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:16:33.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommentDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\ICommentDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\ICommentDal.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\ICommentDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\ICommentDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:16:32.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\EntityFramework\\EfCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\EntityFramework\\EfCategoryRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:14:11.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EfBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:14:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EfContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\EntityFramework\\EfContactRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfContactRepository.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\EntityFramework\\EfContactRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:14:06.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EfNewsLetterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\EntityFramework\\EfNewsLetterRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfNewsLetterRepository.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\EntityFramework\\EfNewsLetterRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfNewsLetterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:14:05.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContactDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\IContactDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IContactDal.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\IContactDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IContactDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:13:40.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:13:32.076Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INewsLetterDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\INewsLetterDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\INewsLetterDal.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\INewsLetterDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\INewsLetterDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:13:30.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:13:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAboutDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\IAboutDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IAboutDal.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\DataAccessLayer\\Abstract\\IAboutDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IAboutDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:13:14.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\EntityLayer\\Concrete\\Blog.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Blog.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\EntityLayer\\Concrete\\Blog.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:10:52.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWriterService.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\BusinessLayer\\Abstract\\IWriterService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IWriterService.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\BusinessLayer\\Abstract\\IWriterService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IWriterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:20:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WriterManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\BusinessLayer\\Concrete\\WriterManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\WriterManager.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\BusinessLayer\\Concrete\\WriterManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\WriterManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:20:57.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WriterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\BusinessLayer\\ValidationRules\\WriterValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ValidationRules\\WriterValidator.cs",
+              "ToolTip": "C:\\Users\\emrullahkoc\\Desktop\\N-TierArchitectureCore\\NTierArchitectureCore\\BusinessLayer\\ValidationRules\\WriterValidator.cs",
+              "RelativeToolTip": "BusinessLayer\\ValidationRules\\WriterValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:20:55.894Z"
             }
           ]
         }
